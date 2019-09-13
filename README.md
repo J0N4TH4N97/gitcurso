@@ -1,0 +1,2 @@
+# gitcurso
+proyecto con git
